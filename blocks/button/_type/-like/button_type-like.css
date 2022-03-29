@@ -1,0 +1,17 @@
+.button_type-like {
+	width: 22px;
+	height: 19px;
+	background-image: url(../../../../images/Vector\ —\ копия.png);
+	border: none;
+	background-color: transparent;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: 15px;
+	cursor: pointer;
+	transition: opacity 0.1s;
+
+}
+
+.button_type-like:hover {
+	opacity: 0,5;
+}
